@@ -1,0 +1,32 @@
+[window]
+
+opacity = 0.79
+blur	= true
+
+padding.x = 10
+padding.y = 10
+
+decorations = "Full"
+decorations_theme_variant = "Light" # "Dark"
+dynamic_title = true
+
+
+[font]
+
+normal.family = "Operator Mono"
+bold.family = "Operator Mono"
+italic.family = "Operator Mono"
+bold_italic.family = "Operator Mono"
+
+size = 12.0
+
+[selection]
+save_to_clipboard = true
+
+[cursor]
+style.shape	= "Underline"
+style.blinking	= "Always"
+
+[mouse]
+hide_when_typing = true
+
